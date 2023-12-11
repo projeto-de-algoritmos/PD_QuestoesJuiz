@@ -19,7 +19,7 @@ Exercícios escolhidos:
 - [](): 
 .
 
-- [](): .
+- [Melhor Ordem - 2919](https://www.beecrowd.com.br/repository/UOJ_2919.html): O desafio consiste em criar um programa que, dado uma lista de N números inteiros em Nlognônia, encontre a subsequência crescente mais longa seguindo as regras estabelecidas. O participante pode escolher NI valores da lista original e inseri-los em uma nova lista, garantindo que cada novo elemento seja maior do que todos os elementos já inseridos até o momento. O objetivo é maximizar o tamanho da nova lista, percorrendo a lista original uma única vez. Exercício de Nível 7.
   
 - [](): .
   
@@ -27,7 +27,7 @@ Exercícios escolhidos:
 
 ![]()
 ![]()
-![]()
+![Melhor Ordem - 2919](2919/2919.png)
 ![]()
 
 ## Especificação
