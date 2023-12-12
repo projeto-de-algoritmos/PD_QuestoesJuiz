@@ -40,4 +40,4 @@ Para rodar os códigos, basta abrir os links a cima, e colar os códigos dos arq
 
 ## Vídeo
 
-O arquivo do vídeo está disponível [aqui](./apresentacao.mp4) ou no [link do youtube](https://youtu.be/nVbDU7PUHWg).
+O arquivo comprimido do vídeo está disponível [aqui](./apresentacao.mp4), ou sua versão original no [link do youtube](https://youtu.be/nVbDU7PUHWg).
